@@ -12,9 +12,9 @@ function Card(props) {
                 />
                 <h3 className="text-2xl md:text-4xl font-semibold text-gray-800 mb-2">{props.title}</h3>
                 <p className="text-gray-600 mb-4 text-lg md:text-xl">{props.description}</p>
-                <a href="#" className="text-[#BE7C68] font-bold uppercase text-sm hover:underline">
+                <p className="text-[#BE7C68] font-bold uppercase text-sm hover:underline">
                     Read More →
-                </a>
+                </p>
             </div>
        
 

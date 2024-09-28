@@ -1,4 +1,3 @@
-
 import Nav from './Nav'
 import Featured from './Featured'
 import Mail from "./Mail"
@@ -94,12 +93,11 @@ export default function Wrap() {
             <p className="text-[#f6ecea] md:w-[40vw] text-lg md:text-xl text-wrap mb-12">
               Lorem dui tincidunt nunc viverra morbi et maecenas quam adipiscing integer amet eget blandit phasellus est natoque blandit facilisi eleifend.
             </p>
-            <a
-              href="#"
+            <p
               className="text-[#BE7C68]  bg-white font-bold text-[15px] uppercase tracking-[2px] px-6 py-3 md:px-10 md:py-5 rounded-[3px] border border-white hover:text-white hover:bg-transparent"
             >
               Let's Talk
-            </a>
+            </p>
           </div>
         </div>
       </div>

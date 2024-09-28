@@ -22,11 +22,11 @@ export default function MobileNav (){
 
       {isOpen && (
         <div className="fixed inset-0 z-40 bg-white text-center text-lg flex flex-col items-center justify-center space-y-8">
-          <a  className="hover:text-gray-500">Home</a>
-          <a  className="hover:text-gray-500">About</a>
-          <a  className="hover:text-gray-500">Reviews</a>
-          <a  className="hover:text-gray-500">Videos</a>
-          <a  className="hover:text-gray-500">Contact</a>
+          <p  className="hover:text-gray-500">Home</p>
+          <p  className="hover:text-gray-500">About</p>
+          <p  className="hover:text-gray-500">Reviews</p>
+          <p  className="hover:text-gray-500">Videos</p>
+          <p  className="hover:text-gray-500">Contact</p>
         </div>
       )}
     </div>

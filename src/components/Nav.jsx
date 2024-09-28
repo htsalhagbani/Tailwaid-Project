@@ -13,9 +13,9 @@ export default function Nav (){
                   <div  className="flex items-center flex-wrap px-0">
                     <div className="inline-flex align-middle items-center transition-[0.2s] duration-[linear] leading-none self-center px-0 py-[1em]">
                       <span className="pr-[1em]">
-                        <a className=" no-underline bg-transparent hover:text-[#191970] focus:text-[#191970] focus-visible:outline-dotted " href="https://websitedemos.net/food-blogger-04/?customize=template">
+                        <p className=" no-underline bg-transparent hover:text-[#191970] focus:text-[#191970] focus-visible:outline-dotted ">
                           <img  alt="Food Blogger & Influencer" className="max-w-full w-16 transition-[0.2s] duration-[linear] h-auto align-middle border-0 lg:w-12 lg:max-w-12 " src="https://websitedemos.net/food-blogger-04/wp-content/uploads/sites/793/2021/03/food-blogger-site-logo.svg" height={34} width={64} />
-                        </a>
+                        </p>
                       </span>
                     </div>
                   </div>

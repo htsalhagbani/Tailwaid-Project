@@ -21,12 +21,12 @@ export default function Hero (){
                     nunc at adipiscing sit morbi aliquet mauris porttitor nisi, senectus
                     pharetra, ac porttitor orci.
                 </p>
-                <a
-                    href="#"
+                <p
+                   
                     className="inline-block bg-transparent border text-sm md:text-xl border-[#be7c68] text-[#be7c68] font-bold uppercase px-4 py-2 md:px-6 md:py-3 rounded hover:bg-[#be7c68] hover:text-white"
                 >
                     Join Insider
-                </a>
+                </p>
                 <div className="flex mt-10  md:mt-[10vw] space-x-8 md:space-x-24">
                     <div className="text-center">
                         <FaYoutube className="text-[#be7c68] text-4xl md:text-5xl mx-auto mb-2" />
