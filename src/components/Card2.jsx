@@ -2,7 +2,7 @@ import React from 'react'
 
 function Card2(props) {
   return (
-    <div className="flex flex-col bg-[red]  ">
+    <div className="flex flex-col   ">
                         <img
                             src={props.image}
                             alt={props.name}
