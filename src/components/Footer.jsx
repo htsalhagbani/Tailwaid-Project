@@ -1,5 +1,4 @@
-import {FontAwesomeIcon} from "@fortawesome/react-fontawesome"
-import { FaBeer, FaFacebook, FaInstagram, FaWifi, FaYoutube } from 'react-icons/fa'
+import {  FaFacebook, FaInstagram, FaYoutube } from 'react-icons/fa'
 export default function FooterL (){
     return (
         <footer className=" w-full py-24  ">

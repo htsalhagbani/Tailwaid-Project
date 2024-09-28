@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Resturants from './components/Resturants'
 import "@fortawesome/react-fontawesome"
